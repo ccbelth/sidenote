@@ -1,0 +1,10 @@
+{
+  "name": "sidenote",
+  "version": "1.0.0",
+  "description": "SideNote · 贴在屏幕右缘的侧边备忘录（目标追踪 / 打卡 / 备注）",
+  "main": "main.js",
+  "author": "cc",
+  "devDependencies": {
+    "electron": "^33.0.0"
+  }
+}
